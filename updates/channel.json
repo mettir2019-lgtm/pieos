@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "repo": "mettir2019-lgtm/pieos",
+  "latest": "1.0",
+  "releases": [
+    {
+      "version": "1.0",
+      "date": "2026-11-17",
+      "tag": "v1.0",
+      "release_url": "https://github.com/mettir2019-lgtm/pieos/releases/tag/v1.0",
+      "notes": "First public release of PieOS: Debian 13 trixie live/installer ISO with Cinnamon, Frutiger Aero theme, PieOS Settings, EDM sound presets.",
+      "iso": {
+        "name": "PieOS-amd64.iso",
+        "size": 3227459584,
+        "sha256": "ba52b00d6905be5ab9ee0db3988f3c9dfcd31578191c11eba37b4524642ec112",
+        "sha256_url": "https://github.com/mettir2019-lgtm/pieos/releases/download/v1.0/PieOS-amd64.iso.sha256",
+        "parts": [
+          {
+            "name": "PieOS-amd64.iso.part0",
+            "url": "https://github.com/mettir2019-lgtm/pieos/releases/download/v1.0/PieOS-amd64.iso.part0",
+            "size": 838860800,
+            "sha256": "9b8d02f088d6d0d46de734afea21ffd8201fd7400c42d502f5726d72f378908a"
+          },
+          {
+            "name": "PieOS-amd64.iso.part1",
+            "url": "https://github.com/mettir2019-lgtm/pieos/releases/download/v1.0/PieOS-amd64.iso.part1",
+            "size": 838860800,
+            "sha256": "a75453f1e41333a91c9204b06c88e39cf5f1fd57729bdd25b97aac974192205d"
+          },
+          {
+            "name": "PieOS-amd64.iso.part2",
+            "url": "https://github.com/mettir2019-lgtm/pieos/releases/download/v1.0/PieOS-amd64.iso.part2",
+            "size": 838860800,
+            "sha256": "0c57aa0edad0dff7abd428ae668d13ddf37158a9b9691c797232730601b10a54"
+          },
+          {
+            "name": "PieOS-amd64.iso.part3",
+            "url": "https://github.com/mettir2019-lgtm/pieos/releases/download/v1.0/PieOS-amd64.iso.part3",
+            "size": 710877184,
+            "sha256": "f556ef7f7ca8c9d18142ecafeacba94513cbc65a80fd15a4c1fde6d8e38dcee7"
+          }
+        ]
+      },
+      "pack": null
+    }
+  ]
+}

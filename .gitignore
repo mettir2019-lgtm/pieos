@@ -1,0 +1,7 @@
+*.iso
+*.iso.part*
+*.img
+*.deb
+*.tar.gz
+parts/
+*.log
